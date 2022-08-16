@@ -1,0 +1,22 @@
+th {
+    background-color: black;
+    color: white;
+ }
+
+ tbody.cold {
+    text-align: center;
+    font-weight: bold;
+    background-color: grey;
+ }
+
+ tbody.cool{
+    text-align: center;
+    font-weight: bold;
+    background-color: silver;
+ }
+
+ tbody.hot{
+    text-align: center;
+    font-weight: bold;
+    background-color: ivory;
+ }
